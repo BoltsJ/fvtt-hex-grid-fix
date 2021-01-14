@@ -1,0 +1,16 @@
+{
+    "name": "fvtt-hex-grid-fix",
+    "title": "Hex Grid Fixes",
+    "description": "Fixes measurement scaling and template snapping on hexagonal grids in Foundry VTT",
+    "author": "Bolts",
+    "type": "module",
+    "version": "0.0.0a",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion": "0.7.9",
+    "esmodules": [
+        "./module/hgf.js"
+    ],
+    "url": "https://github.com/BoltsJ/fvtt-hex-grid-fix",
+    "manifest": "",
+    "download": ""
+}
