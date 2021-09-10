@@ -1,6 +1,7 @@
 # Hex Grid Fixes
 
-Fixes the incorrect scaling on measurements and changes the snapping on measured templates and similar placeables to align to the centers and vertices of the hexes.
+ * Fixes the incorrect scaling on measurements.
+ * Fixes incorrect conversion from cubic coordinates to row/column coordinates
 
 ## Warning
 
